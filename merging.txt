@@ -1,3 +1,3 @@
 Test line 1
 Test line 2
-Line 3 on the main branch
+Test line 3 from the test branch
